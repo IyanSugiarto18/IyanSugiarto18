@@ -27,7 +27,10 @@
 <h3 align="center">Junior Web Developer, from Indonesia</h3>
 
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=IyanSugiarto18&show_icons=true&theme=tokyonight" />
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
 
 ### Languages and Tools :computer:
 
