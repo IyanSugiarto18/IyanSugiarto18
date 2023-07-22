@@ -49,6 +49,3 @@
 <br/>
 <br/>
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-![Snake animation](https://github.com/IyanSugiarto18/IyanSugiarto18/blob/output/github-contribution-grid-snake.svg)
-
